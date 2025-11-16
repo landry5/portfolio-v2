@@ -1,6 +1,6 @@
 "use client"
 
-import { User, Code, BookOpen, Briefcase, Github } from "lucide-react"
+import { User, Code,Briefcase, Github } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import Link from "next/link"
 import Home from "@/components/sections/Home"
